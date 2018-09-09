@@ -40,3 +40,7 @@ hs_err_pid*
 /spring/restful/gs-rest-service/complete/.idea/
 /spring/restful/gs-rest-service/complete/.mvn/
 spring/restful/gs-rest-service/complete/src/test/java/hello/
+/spring/restful/rest-service/service/.mvn
+/spring/restful/rest-service/service/.idea/
+spring/restful/rest-service/.idea/inspectionProfiles/
+spring/restful/rest-service/service/.idea
