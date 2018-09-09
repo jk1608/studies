@@ -45,3 +45,4 @@ spring/restful/gs-rest-service/complete/src/test/java/hello/
 spring/restful/rest-service/.idea
 spring/restful/rest-service/service/.idea
 /spring/restful/rest-service/service/target
+/spring/restful/rest-service/service/rest-service.iml
